@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-//S�O 04:24, VAI SE F%%%% C#, JAVA SOLA EM QUEST�O DE ENUM OLHA ESSE GO-HORSE PESADASSO!!!!!!!!!!!
 
 class CircuitAttributes : Attribute
 {
